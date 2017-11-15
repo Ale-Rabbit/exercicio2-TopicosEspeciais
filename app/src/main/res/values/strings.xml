@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fixacao</string>
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+        <!--<string-array name="marcas_array">-->
+            <!--<item>Chevrolet</item>-->
+            <!--<item>Fiat</item>-->
+            <!--<item>Ford</item>-->
+            <!--<item>Volkswagen</item>-->
+        <!--</string-array>-->
+</resources>
+
+
+
